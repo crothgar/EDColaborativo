@@ -5,6 +5,7 @@ public class PrimerFichero {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hola que tal");
+		System.out.println("ya ves");
 
 	}
 
